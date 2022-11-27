@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/instahack-front-v01/static/css/main.073c9b0a.css",
+    "main.js": "/instahack-front-v01/static/js/main.84e8485b.js",
+    "static/js/787.5fd9b265.chunk.js": "/instahack-front-v01/static/js/787.5fd9b265.chunk.js",
+    "static/media/logo.svg": "/instahack-front-v01/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/instahack-front-v01/index.html",
+    "main.073c9b0a.css.map": "/instahack-front-v01/static/css/main.073c9b0a.css.map",
+    "main.84e8485b.js.map": "/instahack-front-v01/static/js/main.84e8485b.js.map",
+    "787.5fd9b265.chunk.js.map": "/instahack-front-v01/static/js/787.5fd9b265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84e8485b.js"
+  ]
+}
